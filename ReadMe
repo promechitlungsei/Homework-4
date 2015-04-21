@@ -1,0 +1,8 @@
+It looks like your code is incomplete. I see that you have module.exports = ApllicationWindow as your last line so
+I'm assuming you used the Master/Details Template for your file. Even using the template you have to place your 'app.js' into
+a file called MasterView in order for all the sizing and orientation code for phones, tablets, the web, to apply to your code.
+If you place it in an ApplicationWindow that would mean that the code would run on certain sizing conditions on your device/emulator.
+Other than that your code seems to be good, you've include text, but I just don't understand why you have two biographies for your 
+assignment. Am I missing snother file because all I saw was the one displayed from the link Lori gave me.
+
+Peer Reviewer 1
